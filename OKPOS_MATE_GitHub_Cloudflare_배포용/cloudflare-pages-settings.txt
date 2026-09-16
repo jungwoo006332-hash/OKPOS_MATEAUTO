@@ -1,0 +1,17 @@
+Cloudflare Pages 배포 설정
+
+Framework preset: None
+Build command: (비워두기)
+Build output directory: public
+Root directory: (비워두기)
+
+GitHub 저장소 구조
+/public/index.html
+/public/style.css
+/public/app.js
+/public/parser.js
+/public/excel-export.js
+/public/xlsx.full.min.js
+/README.md
+
+주의: ZIP 파일 자체를 GitHub에 올리지 말고, 압축을 푼 폴더와 파일을 올리세요.
